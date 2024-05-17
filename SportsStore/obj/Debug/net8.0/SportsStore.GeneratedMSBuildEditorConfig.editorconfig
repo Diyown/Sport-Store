@@ -17,71 +17,91 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SportsStore
 build_property.RootNamespace = SportsStore
-build_property.ProjectDir = C:\Users\UU629\Desktop\Sport Store\SportsStore\
+build_property.ProjectDir = C:\Users\dione\OneDrive\Desktop\Sport-Store\SportsStore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\UU629\Desktop\Sport Store\SportsStore
+build_property.MSBuildProjectDirectory = C:\Users\dione\OneDrive\Desktop\Sport-Store\SportsStore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Home/Chess.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Carts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Carts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Carts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Carts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Carts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Home/Chess.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Home/Index.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Home/Privacy.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Home/Soccer.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Home/Soccer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2NjZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Home/WaterSports.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Home/WaterSports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXYXRlclNwb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Products/Create.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Products/Delete.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Products/Details.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Products/Edit.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Products/Index.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Shared/Error.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/_ViewImports.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/_ViewStart.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/UU629/Desktop/Sport Store/SportsStore/Views/Shared/_Layout.cshtml]
+[C:/Users/dione/OneDrive/Desktop/Sport-Store/SportsStore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sm4dgrbhvq

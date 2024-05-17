@@ -2,6 +2,8 @@
 using Microsoft.Extensions.DependencyInjection;
 using SportsStore.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<CartContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CartContext") ?? throw new InvalidOperationException("Connection string 'CartContext' not found.")));
 builder.Services.AddDbContext<StoreContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("StoreContext") ?? throw new InvalidOperationException("Connection string 'StoreContext' not found.")));
 

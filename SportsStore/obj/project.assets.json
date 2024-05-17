@@ -8134,19 +8134,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UU629\\.nuget\\packages\\": {}
+    "C:\\Users\\dione\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UU629\\Desktop\\Sport Store\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\dione\\OneDrive\\Desktop\\Sport-Store\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\UU629\\Desktop\\Sport Store\\SportsStore\\SportsStore.csproj",
-      "packagesPath": "C:\\Users\\UU629\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UU629\\Desktop\\Sport Store\\SportsStore\\obj\\",
+      "projectPath": "C:\\Users\\dione\\OneDrive\\Desktop\\Sport-Store\\SportsStore\\SportsStore.csproj",
+      "packagesPath": "C:\\Users\\dione\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dione\\OneDrive\\Desktop\\Sport-Store\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\UU629\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dione\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8166,6 +8166,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8210,7 +8215,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

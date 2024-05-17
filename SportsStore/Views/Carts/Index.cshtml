@@ -1,10 +1,10 @@
-﻿@model IEnumerable<SportsStore.Models.Product>
+﻿@model IEnumerable<SportsStore.Models.Cart>
 
 @{
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>CART</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -16,13 +16,7 @@
                 @Html.DisplayNameFor(model => model.Product_Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Product_Desc)
-            </th>
-            <th>
                 @Html.DisplayNameFor(model => model.Price)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Product_Category)
             </th>
             <th></th>
         </tr>
@@ -34,15 +28,21 @@
                 @Html.DisplayFor(modelItem => item.Product_Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Product_Desc)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.Price)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Product_Category)
             </td>
         </tr>
 }
     </tbody>
 </table>
+
+@if (Model.Any())
+{
+    <div class="text-end">
+        <h4>Total Price: @Model.Sum(item => item.Price)</h4>
+        <a href="#" class="btn btn-primary">Checkout</a>
+    </div>
+}
+else
+{
+    <p>Your shopping cart is empty.</p>
+}
